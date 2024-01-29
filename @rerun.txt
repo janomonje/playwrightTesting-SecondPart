@@ -1,0 +1,2 @@
+src/test/features/orangeHRMLogin.feature:12
+src/test/features/addPost.feature:3
